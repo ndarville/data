@@ -1,6 +1,5 @@
-data
+data [![MIT-license badge](https://img.shields.io/badge/License-MIT-blue.svg)][license]
 ====
-[![MIT-license badge](https://img.shields.io/badge/License-MIT-blue.svg)][license]
 
 Data Elsewhere
 --------------
