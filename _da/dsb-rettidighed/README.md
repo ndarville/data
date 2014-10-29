@@ -68,7 +68,7 @@ Ud fra hver af de tre strækninger er tre værdier:
 
 Da den beregnede kompensation afrundes til et helt tal, får vi `5%`—værdien, der fremgår af tabellen.
 
-Rettidighedsmålet er et fast tal på 92%, så det undlades i tabellen, og da kompensationen kan beregnes ud fra resultatet (og rettidighedsmålet), udelades kompsensationen også.
+Rettidighedsmålet er et fast tal på 92%, så det udelades i tabellen, og da kompensationen kan beregnes ud fra resultatet (og rettidighedsmålet), udelades kompsensationen også.
 
 Tilbage er det månedlige resultat for hver af de tre strækninger i et [mindre, simplere datasæt][rt].
 
@@ -96,7 +96,11 @@ Måned | Operatørregularitet
 
 Validering
 ----------
-Begge datafiler er valideret med `csvlint` for at sikre at der er tale om CSV.
+Begge datafiler er valideret med `csvlint` for at sikre valid CSV.
+
+DSB Rejsetidsgaranti
+--------------------
+Det er måske et godt tidspunkt at gøre opmærksom på, at du som pendler kun kan få tildelt kompsensation, hvis du er tilmeldt [DSBs rejsetidsgaranti][rtg]. Så hep.
 
 
 [source]: http://dsboresund.dk/rettidighed.asp
@@ -104,3 +108,4 @@ Begge datafiler er valideret med `csvlint` for at sikre at der er tale om CSV.
 [or-raw]: https://raw.githubusercontent.com/ndarville/data/master/_da/dsb-rettidighed/operatoerregularitet.csv
 [rt]: https://github.com/ndarville/data/blob/master/_da/dsb-rettidighed/rettidighed.csv
 [rt-raw]: https://raw.githubusercontent.com/ndarville/data/master/_da/dsb-rettidighed/rettidighed.csv
+[rtg]: http://www.dsb.dk/find-produkter-og-services/dsb-rejsetidsgaranti/dsb-pendler-rejsetidsgaranti/
