@@ -85,7 +85,7 @@ Måned | Helsingør | CPH Lufthavn | Malmø
 
 Værdien for juli 2013 har en asterisk, forklaret således:
 
->* DSBØresund tager forbehold for force majeure i juli måned - DSBØresund forventer at tallet korrigeres for dette og tallet er derfor ikke endeligt.
+>DSBØresund tager forbehold for force majeure i juli måned - DSBØresund forventer at tallet korrigeres for dette og tallet er derfor ikke endeligt.
 
 #### Tabeluddrag ####
 Måned | Operatørregularitet
