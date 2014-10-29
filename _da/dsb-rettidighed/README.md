@@ -100,3 +100,7 @@ Begge datafiler er valideret med `csvlint` for at sikre at der er tale om CSV.
 
 
 [source]: http://dsboresund.dk/rettidighed.asp
+[or]: https://github.com/ndarville/data/blob/master/_da/dsb-rettidighed/operatoerregularitet.csv
+[or-raw]: https://raw.githubusercontent.com/ndarville/data/master/_da/dsb-rettidighed/operatoerregularitet.csv
+[rt]: https://github.com/ndarville/data/blob/master/_da/dsb-rettidighed/rettidighed.csv
+[rt-raw]: https://raw.githubusercontent.com/ndarville/data/master/_da/dsb-rettidighed/rettidighed.csv
