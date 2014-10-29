@@ -4,10 +4,10 @@ Data fra [DSB][source].
 
 Datafiler
 ----------
- Filnavn                    | View rendered | View raw
-:---------------------------|:-------------:|:--------------:
- `rettidighed.csv`          | [View][rt]    | [View][rt-raw]
- `operatoerregularitet.csv` | [View][or]    | [View][or-raw]
+ Filnavn                    | Normal visning   | Rå visning
+:---------------------------|:----------------:|:-------------:
+ `rettidighed.csv`          | [Vis][rt]        | [Vis][rt-raw]
+ `operatoerregularitet.csv` | [Vis][or]        | [Vis][or-raw]
 
 Format
 ------
