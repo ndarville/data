@@ -8,7 +8,7 @@ Source: ft.dk: [“Folketingsvalg i Danmark siden 1913”][ge-source]. View the 
 Data Files
 ----------
 - [`1913-1953.csv`][ge-csv-1] (WIP)
-- [`1953-2011.csv`][ge-csv-2]
+- [`1973-2011.csv`][ge-csv-2]
 
 The election data is split into two files due to the [significant changes to the Danish constitution in 1953][1953]. You’ll want to focus on the latter dataset.
 
@@ -39,5 +39,5 @@ All CSV files have been validated with `csvlint` to ensure proper CSV.
 [ge-source]: http://www.ft.dk/Folketinget/Oplysningen/Valg/ValgresultaterDK.aspx
 [ge-original]: https://github.com/ndarville/data/blob/master/elections/dk/general/_original
 [ge-csv-1]: https://github.com/ndarville/data/blob/master/elections/dk/general/1913-1953.csv
-[ge-csv-2]: https://github.com/ndarville/data/blob/master/elections/dk/general/1953-2011.csv
+[ge-csv-2]: https://github.com/ndarville/data/blob/master/elections/dk/general/1973-2011.csv
 [1953]: http://en.wikipedia.org/wiki/Danish_constitutional_and_electoral_age_referendum,_1953
