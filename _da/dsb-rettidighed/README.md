@@ -36,7 +36,6 @@ Måned | Helsingør | CPH Lufthavn | Malmø
 10/14 | 94.2      | 89.2         | 87.2
 
 #### Forklaring ####
-
 DSBs side oplyser tre månedlige værdier for følgende tre strækninger:
 
 * København - Helsingør
