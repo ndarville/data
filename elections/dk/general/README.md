@@ -1,6 +1,5 @@
 Danish General-Election Data
 ============================
-
 For a general overview of Danish election data, see the [overview README][overview].
 
 Source: ft.dk: [“Folketingsvalg i Danmark siden 1913”][ge-source]. View the PDF files the data is based on [here][ge-original].
@@ -34,6 +33,7 @@ Validation
 All CSV files have been validated with `csvlint` to ensure proper CSV.
 
 (For `csvlint` to work, however, you have to temporarily replace all the null values (`-`) with a number for the script to work.)
+
 
 [overview]: https://github.com/ndarville/data/blob/master/elections/dk/README.md
 [ge-source]: http://www.ft.dk/Folketinget/Oplysningen/Valg/ValgresultaterDK.aspx
