@@ -7,8 +7,10 @@ Denmark has five types of elections:
 
 * **General** (i.e. national)
 * **Municipal** and **regional** (i.e. local)
-* Election to the European Parliament (i.e. European)
+* Election to the **European Parliament** (i.e. European)
 * **Referendums**
+
+* * *
 
 * General elections must be held every four years at the latest, but the prime minister has the prerogative of calling the election before that date.
 
