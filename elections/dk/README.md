@@ -15,15 +15,12 @@ Denmark has five types of elections:
 * General elections must be held every four years at the latest, but the prime minister has the prerogative of calling the election before that date.
 
     An election is also held in the event of other parliamentary force-majeure cases.
-
 * Municipal and regional elections are held simultaneously every four years on the third Tuesday of November, in years 2009, 2013, 2017, and so forth.
 
     `[!]` Worth mentioning with regards to turnout is that more people are eligible to vote in the local election than in the general.
 
     If you’ve been a resident in Denmark, Greenland, or the Faroe Islands for the past three years, you are eligible to vote. [#][eligibility]
-
 * Election to the European Parliament is held every five years, in years 2009, 2014, 2019, and so forth.
-
 * Referendums are generally held together with other elections.
 
 For more, see Wikipedia’s [“Elections in Denmark”][wiki].
