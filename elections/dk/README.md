@@ -16,7 +16,7 @@ Denmark has five types of elections:
 
 * Municipal and regional elections are held simultaneously every four years on the third Tuesday of November, in years 2009, 2013, 2017, and so forth.
 
-    [!] Worth mentioning with regards to turnout is that more people are eligible to vote in the local election than in the general.
+    `[!]` Worth mentioning with regards to turnout is that more people are eligible to vote in the local election than in the general.
 
     If you’ve been a resident in Denmark, Greenland, or the Faroe Islands for the past three years, you are eligible to vote. [#][eligibility]
 

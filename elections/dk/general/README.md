@@ -1,4 +1,4 @@
-Danish General-Election Data [![MIT-license badge](https://img.shields.io/badge/License-MIT-blue.svg)][license]
+Danish General-Election Data
 ============================
 
 For a general overview of Danish election data, see the [overview README][overview].
@@ -35,7 +35,6 @@ All CSV files have been validated with `csvlint` to ensure proper CSV.
 
 (For `csvlint` to work, however, you have to temporarily replace all the null values (`-`) with a number for the script to work.)
 
-[license]: https://github.com/ndarville/data/blob/master/elections/dk/general/LICENSE.md
 [overview]: https://github.com/ndarville/data/blob/master/elections/dk/README.md
 [ge-source]: http://www.ft.dk/Folketinget/Oplysningen/Valg/ValgresultaterDK.aspx
 [ge-original]: https://github.com/ndarville/data/blob/master/elections/dk/general/_original
