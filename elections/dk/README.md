@@ -29,7 +29,8 @@ Year | Voting Age
 -----|-----------
 1920 | 25
 1953 | 23
-1961 | 20
+1961 | 21
+1971 | 20
 1978 | 18
 
 For more, see [Wikipedia’s “Elections in Denmark”][wiki] and the [Parliament website’s “Elections and Referendums”][parliament].
