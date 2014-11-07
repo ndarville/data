@@ -16,14 +16,16 @@ Denmark has five types of elections:
 
     An election is also held in the event of other parliamentary force-majeure cases.
 * Municipal and regional elections are held simultaneously every four years on the third Tuesday of November, in years 2009, 2013, 2017, and so forth.
-
-    `[!]` Worth mentioning with regards to turnout is that more people are eligible to vote in the local election than in the general.
-
-    If you’ve been a resident in Denmark, Greenland, or the Faroe Islands for the past three years, you are eligible to vote. [#][eligibility]
 * Election to the European Parliament is held every five years, in years 2009, 2014, 2019, and so forth.
 * Referendums are generally held together with other elections.
 
-Here is how the voting age has changed historically:
+A Note on Voting Eligibility
+----------------------------
+The turnout figures represent the number of votes relative to the **eligible voters**. This may seem inane, but countries like the United States are prone to provide a turnout figure based on the **voting-age population** (VEP), which does not account for the voting-age people who are still ineligible to vote.
+
+When comparing the turnout in general election to the local, it is important to understand that **the general election has fewer eligible voters than the local**. If you’ve been a resident in Denmark, Greenland, or the Faroe Islands for the past three years, you are eligible to vote in local elections. [#][eligibility]
+
+Aside from emancipation, changes to voting age expand the voting population significantly. Here is a history of how the voting age in Denmark changed over the years:
 
 Year | Voting Age
 -----|-----------
