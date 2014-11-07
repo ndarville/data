@@ -21,5 +21,5 @@ All CSV files have been validated with `csvlint` to ensure proper CSV.
 
 
 [source]: http://www.europarl.europa.eu/aboutparliament/en/000cdcd9d4/Turnout-(1979-2009).html
-[view]: https://github.com/ndarville/data/blob/master/elections/_turnout/european-parliament/data.csv
-[raw]: https://github.com/ndarville/data/raw/master/elections/_turnout/european-parliament/data.csv
+[view]: https://github.com/ndarville/data/blob/master/elections/_turnout/eu/european-parliament/data.csv
+[raw]: https://github.com/ndarville/data/raw/master/elections/_turnout/eu/european-parliament/data.csv
