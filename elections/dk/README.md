@@ -23,7 +23,16 @@ Denmark has five types of elections:
 * Election to the European Parliament is held every five years, in years 2009, 2014, 2019, and so forth.
 * Referendums are generally held together with other elections.
 
-For more, see Wikipedia’s [“Elections in Denmark”][wiki].
+Here is how the voting age has changed historically:
+
+Year | Voting Age
+-----|-----------
+1920 | 25
+1953 | 23
+1961 | 20
+1978 | 18
+
+For more, see [Wikipedia’s “Elections in Denmark”][wiki] and the [Parliament website’s “Elections and Referendums”][parliament].
 
 Election Data
 -------------
@@ -38,4 +47,5 @@ All CSV files have been validated with `csvlint` to ensure proper CSV.
 
 [eligibility]: https://www.borger.dk/Sider/Stemmeret-og-valgbarhed-til-kommunalvalg.aspx
 [wiki]: https://en.wikipedia.org/wiki/Elections_in_Denmark
+[parliament]: http://www.thedanishparliament.dk/Democracy/Elections_and_referendums.aspx
 [ge-data]: https://github.com/ndarville/data/blob/master/elections/dk/general
