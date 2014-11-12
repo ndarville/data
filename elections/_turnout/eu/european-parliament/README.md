@@ -1,6 +1,7 @@
 European Turnout for Election to European Parliament
 ====================================================
-- Source: European Parliament website: [“Turnout at the European elections (1979–2009)”][source]. View the PDF files the data is based on [here][source].
+- Source: European Parliament website: [“Turnout at the European elections (1979–2009)”][source].
+    + View the PDF files the data is based on [here][source].
 - View and inspect the data [here][view].
 - Get the raw CSV [here][raw].
 
@@ -16,8 +17,6 @@ Year | BE | DK | DE | IE | FR | IT | LU | NL | UK | EL | ES | PT | SE | AT | FI 
 Validation
 ----------
 All CSV files have been validated with `csvlint` to ensure proper CSV.
-
-(For `csvlint` to work, however, you have to temporarily replace all the null values (`-`) with a number for the script to work.)
 
 
 [source]: http://www.europarl.europa.eu/aboutparliament/en/000cdcd9d4/Turnout-(1979-2009).html
