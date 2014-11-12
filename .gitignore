@@ -1,0 +1,6 @@
+# Max OS
+[Tt]humbs.db
+*.DS_Store
+
+# Office Temp Files
+~$*
